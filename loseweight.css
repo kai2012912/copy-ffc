@@ -1,0 +1,23 @@
+.blue:hover{
+    color: rgb(31, 30, 30);
+}
+.navbar{
+    border: 1px solid  gray; 
+    background-color: gray
+}
+.know{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.blue{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover; 
+     background-attachment:fixed ;
+}
